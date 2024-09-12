@@ -1,0 +1,9 @@
+{
+	"id": "KJN95CBlGmc3tfP",
+	"json": "{\"id\":\"KJN95CBlGmc3tfP\",\"url\":\"https://harvestfooddistributors.com/products/frozen-foods/\",\"loadedUrl\":\"https://harvestfooddistributors.com/products/frozen-foods/\",\"uniqueKey\":\"https://harvestfooddistributors.com/products/frozen-foods\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-09-10T21:07:55.159Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://harvestfooddistributors.com/products/frozen-foods",
+	"url": "https://harvestfooddistributors.com/products/frozen-foods/"
+}

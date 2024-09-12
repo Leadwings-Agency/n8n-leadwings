@@ -1,0 +1,9 @@
+{
+	"id": "cvpQZ5ZS3Vx6Ot0",
+	"json": "{\"id\":\"cvpQZ5ZS3Vx6Ot0\",\"url\":\"https://nfraweb.org/\",\"loadedUrl\":\"https://nfraweb.org/\",\"uniqueKey\":\"https://nfraweb.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-09-10T21:08:03.479Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://nfraweb.org",
+	"url": "https://nfraweb.org/"
+}

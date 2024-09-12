@@ -1,0 +1,165 @@
+{
+  "usableSessionsCount": 5,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_PBDWWOpro5",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-10T21:57:52.711Z",
+      "createdAt": "2024-09-10T21:07:52.711Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_hbJYbaLTAY",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "_abck",
+            "value": "0A8D00DF63DC941B0689A7F6CC11D040~-1~YAAQ0yIRAozpWdeRAQAAyOvD3QxMwlDU7KK7Hvcnep8bnTW7D6OhXBuDh1Bxl/067cudxhIJs0zrZqI/GcS2PzfLqUKe9diVlJf6zz+IjR4IvtZaQ+WQfk0i5+oAT2vh06D+kfNR9RoFI2NwpOZmOhD1tPhSoVOYWzHNOSBJSRwuDb8BCs6EfNZBCQVJlKhIZIDs23I4WPMiPapPdsw/EEo3k4hiyQUXIk1L5KC+n0X7/1zTZdisIraEbxvcYLqtTcDq64W5zLbso3mD14nMgH3e5Yz7vufKRoWodYZWzffOsIOzYnCzineKKU+WRY608OMtNw8cQJkKaR1+VyMN+2rd4/syL4Udc8MXcmcYlDKABvf/EucOCl3LgeRAxVUkHmq+jeBmukg0Ep1X4Kd65XM5QO0eHzoJPtI=~-1~-1~-1",
+            "expires": "2025-09-10T21:08:10.000Z",
+            "maxAge": 31536000,
+            "domain": "fda.gov",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-09-10T21:08:03.359Z",
+            "lastAccessed": "2024-09-10T21:08:03.359Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "FADE73A73A6CF3ABBD056A8649946327~YAAQ0yIRAo3pWdeRAQAAyOvD3RkB+AUFNi05TcziaGFEFh4q6PNrTyRTsH7TROmpsys0kh4q5Q0iFwrkKdtOEteICbHw46nUpGktFhUB6+1ixRGYmxgleJA/qaxWX6WJJZXRtwrHstqCcbjxXY8kN9AHtdo0NMG4Z7W2Xg3PZWGKsb99H1AhftIKKV370gn67AgfacGYzkEOdVOg/UdghsVWTK0Eva2wea7J610b0IjLDgnuheYdw7Kp6odbL7g6McH9BUqI+TK+bSo6Ql58PiFdoRNx4SZMHMtFeVPrYTxWIL2vZ27m+rzOjJoQ9QT1N5fT9aQoL2LBqub7ftz7uJmG6OcPM96n2AVkXnp5DHUF6y8R08wc9Nvg7MrmOl/r3whdXukgofqTaMsHXsArajM1IREotj2WC704f5e9/bTIYcI=~3293763~4338738",
+            "expires": "2024-09-11T01:08:09.000Z",
+            "maxAge": 14399,
+            "domain": "fda.gov",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2024-09-10T21:08:03.361Z",
+            "lastAccessed": "2024-09-10T21:08:03.361Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-10T21:57:52.772Z",
+      "createdAt": "2024-09-10T21:07:52.772Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_y91q5JRvPq",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-10T21:57:52.779Z",
+      "createdAt": "2024-09-10T21:07:52.779Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ub9Pt3RtsM",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "_abck",
+            "value": "B98BD179F5BDC2BBD239F320A2D4E149~-1~YAAQ0yIRAo7pWdeRAQAAz+vD3QyPkK3zM4peaYuh+hY4pYzbYfS32+7LwKovxO/Yh3YdJltb771GrObB0lhsU6adRKz+IFgJNy35+uE9BAdTYXNH3AS40V0irwGZ0fYaF+Wh5egFFp1RuCisUYySbqLGhRa75/GGAG8EeQVWt5Os2zF36QUZCQzvWLPN2gTcywEfc5eDUdfKW6DttIXd8wd7FS6ZPQI/xzFPKr7jRuzcV1SVMrEZfveURT0T2Ja1eXdBcpfWfZiUfL/Mn9NtvzRjrbHCU5sKVp8LfSE+pnCYRUXyDjEtaGrJ6uJKLF2eDygpKVgqKn0bijGxB2lZIU4l2kzb4MDMvsbLj5YjQ8eYBWsNQNFZeyUz0aCqyCncz1UT8H9shiIV8a36YXhCm1nz/N7AHl1DgKea~-1~-1~-1",
+            "expires": "2025-09-10T21:08:10.000Z",
+            "maxAge": 31536000,
+            "domain": "fda.gov",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-09-10T21:08:03.287Z",
+            "lastAccessed": "2024-09-10T21:08:03.287Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "5D7A4A4DC7F69FB55899A953FB2BD6A8~YAAQ0yIRAo/pWdeRAQAA0OvD3Rl5QtdCo/GmbsAdZ+TwvQTveFnHL4Ww/sMQffAEH8ONfEwM1MxgAE0G+FIN+ZO4f8HiZqDTA4lH6iyrhVBhHrq0j8601AvGuz8N031HlxoRBrvMqvu5xG3QZ3jEFCukx64o2XqI5LjJYJJqhR+q0q2f0PYA/DY0DEwMI5VcbmURlpL1fXgaxKr9fnSrqohK5xhRzQsLllpvqOH2wFTWBhGMAK6WZJf+VMTvkR3iycX3R/D3YehVA/pkjRGctVfNcWVjMaAB3cYsw2FRPXSMXfqIzuNX/C/NFcZrCZ6Ndpb+IDD1xnlIqfbHKpq/wDAwuutLlCoev7LHThXicu5a7sJe+V+Gv0S6/dwM2+joQ62Bwx8Ym4QoQwb46bD0jyeOWr04VLIA8/4omRvJhT2EswY/~3293763~4338738",
+            "expires": "2024-09-11T01:08:09.000Z",
+            "maxAge": 14399,
+            "domain": "fda.gov",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2024-09-10T21:08:03.298Z",
+            "lastAccessed": "2024-09-10T21:08:03.298Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-10T21:57:52.812Z",
+      "createdAt": "2024-09-10T21:07:52.812Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_4YxyDnTxn6",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "reuters-geo",
+            "value": "{\"country\":\"-\", \"region\":\"-\"}",
+            "domain": "www.reuters.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2024-09-10T21:08:01.466Z",
+            "lastAccessed": "2024-09-10T21:08:01.466Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-10T21:57:53.283Z",
+      "createdAt": "2024-09-10T21:07:53.283Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
